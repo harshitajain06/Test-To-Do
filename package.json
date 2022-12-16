@@ -1,0 +1,24 @@
+{
+  "name": "test-to-do",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "addDelete.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitajain06/Test-To-Do.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshitajain06/Test-To-Do/issues"
+  },
+  "homepage": "https://github.com/harshitajain06/Test-To-Do#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
